@@ -20,7 +20,7 @@
     .stat span { display:block; color:var(--muted); font-size:14px; }
     .stat strong { display:block; margin-top:8px; font-size:29px; letter-spacing:-.03em; }
     .stat small { color:var(--muted); font-size:12px; }
-    .controls { display:grid; grid-template-columns:1.4fr 1fr 1fr 1.2fr auto; gap:11px; padding:16px; background:#fff; border:1px solid var(--line); border-radius:16px; }
+    .controls { display:grid; grid-template-columns:1.4fr 1fr 1fr 1.2fr 1.2fr auto; gap:11px; padding:16px; background:#fff; border:1px solid var(--line); border-radius:16px; }
     input, select, button { min-height:43px; border-radius:10px; font:inherit; }
     input, select { width:100%; padding:0 12px; color:var(--ink); background:#fff; border:1px solid #cbd5e1; }
     button { padding:0 17px; color:#fff; background:var(--brand); border:0; font-weight:700; cursor:pointer; }
@@ -67,6 +67,7 @@
       <input id="keyword" type="search" placeholder="搜尋案名或店家" />
       <select id="area"><option value="">所有區域</option></select>
       <select id="type"><option value="">所有產品類別</option></select>
+      <select id="store"><option value="">所有店家</option></select>
       <select id="exclusive"><option value="">專約狀態：全部</option><option value="true">只看專約</option><option value="false">非專約／未標示</option></select>
       <button id="reset" type="button">清除篩選</button>
     </section>
@@ -126,10 +127,10 @@
     });
     let sortKey = 'sold', sortDir = -1;
     function fillOptions(id, values) { $(id).insertAdjacentHTML('beforeend', [...new Set(values)].sort().map(v => `<option value="${v}">${v}</option>`).join('')); }
-    fillOptions('area', deals.map(x => x.area)); fillOptions('type', deals.map(x => x.type));
+    fillOptions('area', deals.map(x => x.area)); fillOptions('type', deals.map(x => x.type)); fillOptions('store', deals.map(x => x.store));
     function filtered() {
-      const keyword = $('keyword').value.trim().toLowerCase(), area = $('area').value, type = $('type').value, exclusive = $('exclusive').value;
-      return deals.filter(x => (!keyword || `${x.name}${x.store}${x.area}${x.type}`.toLowerCase().includes(keyword)) && (!area || x.area === area) && (!type || x.type === type) && (exclusive === '' || String(x.exclusive) === exclusive)).sort((a,b) => ((a[sortKey] ?? -Infinity) - (b[sortKey] ?? -Infinity)) * sortDir);
+      const keyword = $('keyword').value.trim().toLowerCase(), area = $('area').value, type = $('type').value, store = $('store').value, exclusive = $('exclusive').value;
+      return deals.filter(x => (!keyword || `${x.name}${x.store}${x.area}${x.type}`.toLowerCase().includes(keyword)) && (!area || x.area === area) && (!type || x.type === type) && (!store || x.store === store) && (exclusive === '' || String(x.exclusive) === exclusive)).sort((a,b) => ((a[sortKey] ?? -Infinity) - (b[sortKey] ?? -Infinity)) * sortDir);
     }
     function render() {
       const items = filtered();
@@ -142,8 +143,8 @@
       $('tableBody').innerHTML = rows || '<tr><td colspan="8" class="empty">找不到符合條件的成交資料</td></tr>';
       $('mobileList').innerHTML = items.map(x => `<article class="card"><div class="card-head"><h3>${x.name}</h3>${x.exclusive ? '<span class="badge">專約</span>' : ''}</div><p class="store">${x.store} · ${x.area} · ${x.type}</p><div class="card-grid"><div><span>開價</span><b>${format(x.asking)} 萬</b></div><div><span>成交價</span><b>${format(x.sold)} 萬</b></div><div><span>成交達成率</span><b>${x.ratio == null ? '—' : x.ratio.toFixed(1) + '%'}</b></div></div></article>`).join('') || '<p class="empty">找不到符合條件的成交資料</p>';
     }
-    ['keyword','area','type','exclusive'].forEach(id => $(id).addEventListener(id === 'keyword' ? 'input' : 'change', render));
-    $('reset').addEventListener('click', () => { ['keyword','area','type','exclusive'].forEach(id => $(id).value=''); render(); });
+    ['keyword','area','type','store','exclusive'].forEach(id => $(id).addEventListener(id === 'keyword' ? 'input' : 'change', render));
+    $('reset').addEventListener('click', () => { ['keyword','area','type','store','exclusive'].forEach(id => $(id).value=''); render(); });
     document.querySelectorAll('th.sort').forEach(th => th.addEventListener('click', () => { const key=th.dataset.key; sortDir = key === sortKey ? -sortDir : -1; sortKey=key; render(); }));
     render();
   </script>
