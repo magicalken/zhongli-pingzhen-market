@@ -32,7 +32,7 @@
     async function loadMonth(id) {
       const all = id === 'all', picked = all ? months : [months.find(x=>x.id===id)];
       deals = (await Promise.all(picked.map(monthDeals))).flat();
-      document.body.classList.toggle('all-months', all);
+      document.body.classList.toggle('all-months', all);$('month').value = id;
       resetOptions('area','所有區域',deals.map(x=>x.area));resetOptions('type','所有產品類別',deals.map(x=>x.type));resetOptions('store','所有店家',deals.map(x=>x.store));$('exclusive').value='';
       $('updatedMonth').textContent = all ? `資料月份：全部（${months[months.length-1].label} – ${months[0].label}）` : `資料月份：${picked[0].label}`;
       $('notice').textContent = all
@@ -40,7 +40,7 @@
         : `本頁資料以每月成交明細 Excel 匯入；目前顯示的 ${picked[0].label}共有 ${deals.length} 筆成交資料（未填開價者不列入）。`;
       render();
     }
-    async function init() { months=await fetch('data/months.json').then(r=>r.json());$('month').innerHTML=`<option value="all">全部月份</option>`+months.map(x=>`<option value="${x.id}">${x.label}</option>`).join('');await loadMonth('all'); }
+    async function init() { months=await fetch('data/months.json').then(r=>r.json());$('month').innerHTML=`<option value="all">全部月份</option>`+months.map(x=>`<option value="${x.id}">${x.label}</option>`).join('');await loadMonth(months[0].id); }
     ['area','type','store','exclusive'].forEach(id=>$(id).addEventListener('change',render));$('month').addEventListener('change',event=>loadMonth(event.target.value));$('reset').addEventListener('click',()=>{$('area').value='';$('type').value='';$('store').value='';$('exclusive').value='';render()});document.querySelectorAll('th.sort').forEach(th=>th.addEventListener('click',()=>{const key=th.dataset.key;sortDir=key===sortKey?-sortDir:-1;sortKey=key;render()}));init().catch(()=>{$('tableBody').innerHTML='<tr><td colspan="9" class="empty">資料載入失敗，請重新整理頁面。</td></tr>'});
   </script>
 </body>
