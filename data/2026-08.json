@@ -1,0 +1,422 @@
+[
+  {
+    "store": "UT中壢環中加盟店",
+    "name": "SOGO三房美寓",
+    "area": "中壢區",
+    "size": 26.52,
+    "asking": 798,
+    "sold": 730,
+    "unit": 27.52,
+    "exclusive": true
+  },
+  {
+    "store": "UT中壢廣州東興加盟店",
+    "name": "中壢體育園區元邦華府3房",
+    "area": "中壢區",
+    "size": 26.78,
+    "asking": 598,
+    "sold": 490,
+    "unit": 18.29,
+    "exclusive": true
+  },
+  {
+    "store": "UT中壢廣州東興加盟店",
+    "name": "龍潭804醫院、中興路漂亮美大套房",
+    "area": "龍潭區",
+    "size": 10.34,
+    "asking": 268,
+    "sold": 180,
+    "unit": 17.4,
+    "exclusive": true
+  },
+  {
+    "store": "UT中壢廣州東興加盟店",
+    "name": "平鎮中豐路透天",
+    "area": "平鎮區",
+    "size": 34.99,
+    "asking": 698,
+    "sold": 585,
+    "unit": 16.72,
+    "exclusive": false
+  },
+  {
+    "store": "UT中壢後站加盟店",
+    "name": "鶯歌透天",
+    "area": "鶯歌區",
+    "size": 28.31,
+    "asking": 1580,
+    "sold": 1100,
+    "unit": 38.85,
+    "exclusive": true
+  },
+  {
+    "store": "UT過嶺特區松義加盟店",
+    "name": "威均帝璽",
+    "area": "大園區",
+    "size": 41.52,
+    "asking": null,
+    "sold": 1908,
+    "unit": 56.9,
+    "exclusive": false
+  },
+  {
+    "store": "UT過嶺特區松義加盟店",
+    "name": "竹城表參道",
+    "area": "桃園區",
+    "size": 38.13,
+    "asking": null,
+    "sold": 1470,
+    "unit": 43.72,
+    "exclusive": true
+  },
+  {
+    "store": "UT過嶺特區松義加盟店",
+    "name": "大清SUPER",
+    "area": "楊梅區",
+    "size": 50.863,
+    "asking": 1198,
+    "sold": 1080,
+    "unit": 22.93,
+    "exclusive": false
+  },
+  {
+    "store": "UT過嶺特區松義加盟店",
+    "name": "京沅綻",
+    "area": "中壢區",
+    "size": 36.79,
+    "asking": 1098,
+    "sold": 1000,
+    "unit": 34.92,
+    "exclusive": false
+  },
+  {
+    "store": "UT過嶺特區松義加盟店",
+    "name": "新森活",
+    "area": "中壢區",
+    "size": 35.247,
+    "asking": 1438,
+    "sold": 1300,
+    "unit": 47.58,
+    "exclusive": false
+  },
+  {
+    "store": "UT內壢車站加盟店",
+    "name": "楊梅美別墅",
+    "area": "楊梅區",
+    "size": 55.55,
+    "asking": 738,
+    "sold": 485,
+    "unit": 8.73,
+    "exclusive": true
+  },
+  {
+    "store": "UT內壢車站加盟店",
+    "name": "內壢美3房",
+    "area": "中壢區",
+    "size": 18.4,
+    "asking": 738,
+    "sold": 680,
+    "unit": 36.98,
+    "exclusive": true
+  },
+  {
+    "store": "UT內壢車站加盟店",
+    "name": "八德三房美寓",
+    "area": "八德區",
+    "size": 35.97,
+    "asking": 438,
+    "sold": 300,
+    "unit": 8.34,
+    "exclusive": true
+  },
+  {
+    "store": "YE平鎮復旦環南加盟店",
+    "name": "中壢火車站機能商圈便宜電梯套房",
+    "area": "中壢區",
+    "size": 8.487,
+    "asking": 238,
+    "sold": 198,
+    "unit": 23.3,
+    "exclusive": false
+  },
+  {
+    "store": "YC中壢高中加盟店",
+    "name": "正20米中興路可變更交通用地科技企業首選",
+    "area": "平鎮區",
+    "size": 1852.29,
+    "asking": 13300,
+    "sold": 8446.431,
+    "unit": 4.55,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢高中加盟店",
+    "name": "中壢高中光明公園景觀大3房車(世界1)",
+    "area": "中壢區",
+    "size": 49.35,
+    "asking": 1838,
+    "sold": 1680,
+    "unit": 34.04,
+    "exclusive": false
+  },
+  {
+    "store": "YC中壢高中加盟店",
+    "name": "台南新化區｜持分地",
+    "area": "新化區",
+    "size": 64.23,
+    "asking": 320,
+    "sold": 65,
+    "unit": 1.01,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢高中加盟店",
+    "name": "近中壢體育園區中原商圈透天36間套房",
+    "area": "中壢區",
+    "size": 115.65,
+    "asking": 6500,
+    "sold": 5700,
+    "unit": 49.28,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢環中加盟店",
+    "name": "【全區最美.三房車】近內壢後站、中正國小",
+    "area": "中壢區",
+    "size": 38.201,
+    "asking": 760,
+    "sold": 666,
+    "unit": 17.43,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢環中加盟店",
+    "name": "環東大街發發樓層 邊間雙衛浴開窗 稀有三房車",
+    "area": "中壢區",
+    "size": 40.328,
+    "asking": 1068,
+    "sold": 950,
+    "unit": 23.55,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢環中加盟店",
+    "name": "中原商圈最低價公寓/已改建4套房",
+    "area": "中壢區",
+    "size": 26.26,
+    "asking": 398,
+    "sold": 360,
+    "unit": 13.7,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢環中加盟店",
+    "name": "內壢核心地段【環中愛樂】大四房平車 舒適成家",
+    "area": "中壢區",
+    "size": 56.048,
+    "asking": 1688,
+    "sold": 1470,
+    "unit": 26.22,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢環中加盟店",
+    "name": "【低總價】邊間3房車、衛浴有開窗.近內壢後站",
+    "area": "中壢區",
+    "size": 37.1,
+    "asking": 798,
+    "sold": 690,
+    "unit": 18.59,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "內壢前站低總價超值三房",
+    "area": "中壢區",
+    "size": 22.07,
+    "asking": 350,
+    "sold": 350,
+    "unit": 15.86,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "湖口松江小資成家華廈二房",
+    "area": "新竹縣湖口鄉",
+    "size": 20.386,
+    "asking": 430,
+    "sold": 380,
+    "unit": 18.64,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "【維多利亞】內壢後站3+1房雙車位",
+    "area": "中壢區",
+    "size": 78.745,
+    "asking": 2688,
+    "sold": 2350,
+    "unit": 29.84,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "青埔A19宜雄玉荷3房車",
+    "area": "中壢區",
+    "size": 56.006,
+    "asking": 1328,
+    "sold": 1240,
+    "unit": 22.14,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢A22中豐加盟店",
+    "name": "楊梅國中大地坪近五楊交流道六房透天",
+    "area": "楊梅區",
+    "size": 69.372,
+    "asking": 1780,
+    "sold": 1500,
+    "unit": 21.62,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢A22中豐加盟店",
+    "name": "大溪區近大溪老街標準挑高三房電梯低總價",
+    "area": "大溪區",
+    "size": 32.105,
+    "asking": 788,
+    "sold": 730,
+    "unit": 22.74,
+    "exclusive": false
+  },
+  {
+    "store": "YC中壢A22中豐加盟店",
+    "name": "平鎮區技嘉科技世外桃源雙車花園別墅",
+    "area": "平鎮區",
+    "size": 55.789,
+    "asking": 1258,
+    "sold": 1150,
+    "unit": 20.61,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢站前加盟店",
+    "name": "忠福收租四套房",
+    "area": "中壢區",
+    "size": 33.54,
+    "asking": 698,
+    "sold": 605,
+    "unit": null,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢站前加盟店",
+    "name": "桃園夜市精美兩房",
+    "area": "桃園區",
+    "size": 28.19,
+    "asking": 1058,
+    "sold": 1000,
+    "unit": null,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢站前加盟店",
+    "name": "桃園市中平商圈四房車",
+    "area": "桃園區",
+    "size": 54.81,
+    "asking": 1738,
+    "sold": 1360,
+    "unit": null,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "益展有福三房車",
+    "area": "中壢區",
+    "size": 42.7,
+    "asking": 1498,
+    "sold": 1350,
+    "unit": 31.62,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "南崁市區使用空間 超過百坪黃金透店",
+    "area": "龜山區",
+    "size": 36.2,
+    "asking": 2180,
+    "sold": 1932,
+    "unit": 53.37,
+    "exclusive": false
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "中壢建行二房車",
+    "area": "中壢區",
+    "size": 37.79,
+    "asking": 1050,
+    "sold": 960,
+    "unit": 25.4,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "大華畔二房車",
+    "area": "中壢區",
+    "size": 34.75,
+    "asking": 1788,
+    "sold": 1580,
+    "unit": 45.47,
+    "exclusive": true
+  },
+  {
+    "store": "YC體育園區云質加盟店",
+    "name": "平鎮忠貞店面",
+    "area": "八德區",
+    "size": 39.94,
+    "asking": 2288,
+    "sold": 1940,
+    "unit": 48.57,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢過嶺絢耀加盟店",
+    "name": "過嶺【大清哈佛】前排次高樓~景觀三房車",
+    "area": "中壢區",
+    "size": null,
+    "asking": null,
+    "sold": 1330,
+    "unit": null,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢過嶺絢耀加盟店",
+    "name": "【過嶺】海德一號~兩房車",
+    "area": "中壢區",
+    "size": null,
+    "asking": null,
+    "sold": 980,
+    "unit": null,
+    "exclusive": false
+  },
+  {
+    "store": "YC中壢過嶺絢耀加盟店",
+    "name": "樺龍青藝景觀三房車",
+    "area": "中壢區",
+    "size": null,
+    "asking": null,
+    "sold": 2045,
+    "unit": null,
+    "exclusive": false
+  },
+  {
+    "store": "YC中壢過嶺絢耀加盟店",
+    "name": "過嶺『幸福公園6』視野制霸質感裝潢兩房車",
+    "area": "中壢區",
+    "size": null,
+    "asking": null,
+    "sold": 1220,
+    "unit": null,
+    "exclusive": true
+  }
+]
