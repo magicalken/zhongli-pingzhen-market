@@ -1,0 +1,512 @@
+[
+  {
+    "store": "YE平鎮復旦環南加盟店",
+    "name": "蘆竹區台茂商圈蘆園電梯方正美三房",
+    "area": "蘆竹區",
+    "size": 32.062,
+    "asking": 888,
+    "sold": 760,
+    "unit": 23.7,
+    "exclusive": true
+  },
+  {
+    "store": "YE平鎮復旦環南加盟店",
+    "name": "青年城三房採光通風公寓低總價就可成家",
+    "area": "大園區",
+    "size": 30.297,
+    "asking": 374,
+    "sold": 260,
+    "unit": 8.58,
+    "exclusive": true
+  },
+  {
+    "store": "YE平鎮復旦環南加盟店",
+    "name": "專任平鎮龍大地小資成家套房+車",
+    "area": "平鎮區",
+    "size": 17.511,
+    "asking": 250,
+    "sold": 250,
+    "unit": 14.276,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢高中加盟店",
+    "name": "青埔高鐵站｜月桃路二段買建地送平房",
+    "area": "中壢區",
+    "size": 30.12,
+    "asking": 756,
+    "sold": 602,
+    "unit": 19.98,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢環中加盟店",
+    "name": "振翔富御2房",
+    "area": "中壢區",
+    "size": 23.65,
+    "asking": 988,
+    "sold": 780,
+    "unit": 32.98,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢環中加盟店",
+    "name": "中壢火車站●中壢高中●正20米三光路一樓超值店面",
+    "area": "中壢區",
+    "size": 22.64,
+    "asking": 1068,
+    "sold": 820,
+    "unit": 36.21,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢環中加盟店",
+    "name": "捷運綠線八德國民運動中心●振翔新天地3房+車位",
+    "area": "八德區",
+    "size": 48.29,
+    "asking": 1680,
+    "sold": 1510,
+    "unit": 31.26,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢環中加盟店",
+    "name": "內壢火車站●環東星巴克●陸光國宅2房+平面車位",
+    "area": "中壢區",
+    "size": 26.121,
+    "asking": 688,
+    "sold": 582,
+    "unit": 22.28,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "內壢前站愛琴海溫馨裝潢2+1房",
+    "area": "中壢區",
+    "size": 29.232,
+    "asking": 898,
+    "sold": 800,
+    "unit": 27.37,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "布查花園三房車",
+    "area": "中壢區",
+    "size": 38.404,
+    "asking": 998,
+    "sold": 910,
+    "unit": 23.7,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "內壢後站綠堤雙車位精美漂亮別墅",
+    "area": "中壢區",
+    "size": 75.383,
+    "asking": 2238,
+    "sold": 1969,
+    "unit": 26.12,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "雲林口湖鄉近口湖國小稀有建地",
+    "area": "雲林縣口湖鄉",
+    "size": 64.863,
+    "asking": 158,
+    "sold": 133,
+    "unit": 2.05,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "未來捷運G06桃園後站陽明公園4+1美裝透天",
+    "area": "桃園區",
+    "size": 30.855,
+    "asking": 1900,
+    "sold": 1850,
+    "unit": 59.96,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢忠孝吉富加盟店",
+    "name": "東騰青一三房車",
+    "area": "桃園區",
+    "size": 57.605,
+    "asking": 2578,
+    "sold": 2077,
+    "unit": 36.06,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢A22中豐加盟店",
+    "name": "過嶺/高誠森仰/面公園高樓景觀三房車",
+    "area": "中壢區",
+    "size": 50.867,
+    "asking": 1398,
+    "sold": 1330,
+    "unit": 26.15,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢站前加盟店",
+    "name": "康荷新天地雙車4房花園別墅",
+    "area": "平鎮區",
+    "size": 67.38,
+    "asking": 1798,
+    "sold": 1620,
+    "unit": 24.04,
+    "exclusive": false
+  },
+  {
+    "store": "YC內壢站前加盟店",
+    "name": "自立國宅A區景觀三房車近內壢火車站",
+    "area": "中壢區",
+    "size": 57.09,
+    "asking": 1198,
+    "sold": 1060,
+    "unit": 18.57,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢站前加盟店",
+    "name": "內壢前站元生學區舞動陽光次頂樓三房車",
+    "area": "中壢區",
+    "size": 37.57,
+    "asking": 1328,
+    "sold": 1220,
+    "unit": 32.47,
+    "exclusive": true
+  },
+  {
+    "store": "YC內壢站前加盟店",
+    "name": "預售平鎮山峰山仔頂全新一樓",
+    "area": "平鎮區",
+    "size": 16.57,
+    "asking": 685,
+    "sold": 660,
+    "unit": 39.83,
+    "exclusive": false
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "近交流道省道中園路 邊間6米面寬1-2樓店住",
+    "area": "中壢區",
+    "size": 56.005,
+    "asking": 1598,
+    "sold": 1250,
+    "unit": 22.32,
+    "exclusive": false
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "八德擴大重劃區旁悠森活全新三房車",
+    "area": "八德區",
+    "size": 44.001,
+    "asking": 1498,
+    "sold": 1388,
+    "unit": 31.54,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "舞動藍天社區二房",
+    "area": "中壢區",
+    "size": 23.292,
+    "asking": 819,
+    "sold": 740,
+    "unit": 31.77,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "醴寓邊間採光佳景觀大二房車",
+    "area": "中壢區",
+    "size": 40.482,
+    "asking": 1588,
+    "sold": 1450,
+    "unit": 35.82,
+    "exclusive": false
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "平鎮南勢商圈門前停車8米路5房透天",
+    "area": "平鎮區",
+    "size": 54.893,
+    "asking": 1498,
+    "sold": 1340,
+    "unit": 24.41,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "朧程萬里低樓層低公設低總價三房",
+    "area": "蘆竹區",
+    "size": 32.5,
+    "asking": 668,
+    "sold": 650,
+    "unit": 20.0,
+    "exclusive": true
+  },
+  {
+    "store": "YC中壢環西喆禮加盟店",
+    "name": "沐舍無敵景觀漂亮大套房",
+    "area": "龍潭區",
+    "size": 26.82,
+    "asking": 438,
+    "sold": 400,
+    "unit": 14.91,
+    "exclusive": true
+  },
+  {
+    "store": "YC體育園區云賀加盟店",
+    "name": "八德美屋",
+    "area": "八德區",
+    "size": 35.576,
+    "asking": 1358,
+    "sold": 1275,
+    "unit": 35.84,
+    "exclusive": true
+  },
+  {
+    "store": "YC體育園區云賀加盟店",
+    "name": "八德一樓美宅",
+    "area": "八德區",
+    "size": 25.649,
+    "asking": 698,
+    "sold": 675,
+    "unit": 26.32,
+    "exclusive": true
+  },
+  {
+    "store": "YC體育園區云賀加盟店",
+    "name": "八德三樓美寓",
+    "area": "八德區",
+    "size": 25.649,
+    "asking": 598,
+    "sold": 521,
+    "unit": 20.31,
+    "exclusive": true
+  },
+  {
+    "store": "YC體育園區云賀加盟店",
+    "name": "蘆竹三房車",
+    "area": "蘆竹區",
+    "size": 54.389,
+    "asking": 1998,
+    "sold": 1790,
+    "unit": 32.91,
+    "exclusive": true
+  },
+  {
+    "store": "YC體育園區環中加盟店",
+    "name": "平鎮中豐路店面",
+    "area": "平鎮區",
+    "size": 87.444,
+    "asking": 3488,
+    "sold": 3038,
+    "unit": 34.74,
+    "exclusive": true
+  },
+  {
+    "store": "UT中壢環中加盟店",
+    "name": "龍德狀元/社區型雙車別墅",
+    "area": "平鎮區",
+    "size": 61.268,
+    "asking": 1680,
+    "sold": 1545,
+    "unit": 25.22,
+    "exclusive": true
+  },
+  {
+    "store": "UT園區龍慈吉富加盟店",
+    "name": "楊梅幼獅交流道真鑽景觀三房車",
+    "area": "楊梅區",
+    "size": 45.17,
+    "asking": 998,
+    "sold": 998,
+    "unit": 22.09,
+    "exclusive": true
+  },
+  {
+    "store": "UT園區龍慈吉富加盟店",
+    "name": "過嶺特區佳泰超級郡裝潢二房車",
+    "area": "中壢區",
+    "size": 37.29,
+    "asking": 958,
+    "sold": 900,
+    "unit": 24.13,
+    "exclusive": true
+  },
+  {
+    "store": "UT園區龍慈吉富加盟店",
+    "name": "過嶺理想家可停雙車別墅",
+    "area": "楊梅區",
+    "size": 67.56,
+    "asking": 1650,
+    "sold": 1450,
+    "unit": 21.46,
+    "exclusive": true
+  },
+  {
+    "store": "UT園區龍慈吉富加盟店",
+    "name": "大崙國小廣涵前棟邊間雙車別墅",
+    "area": "中壢區",
+    "size": 55.39,
+    "asking": 1398,
+    "sold": 1040,
+    "unit": 18.77,
+    "exclusive": false
+  },
+  {
+    "store": "UT園區龍慈吉富加盟店",
+    "name": "內壢站前展志學質感2+1房車",
+    "area": "中壢區",
+    "size": 39.82,
+    "asking": 1298,
+    "sold": 1180,
+    "unit": 29.63,
+    "exclusive": true
+  },
+  {
+    "store": "UT中壢後站加盟店",
+    "name": "嘉義公寓",
+    "area": "嘉義東區",
+    "size": 24.79,
+    "asking": 498,
+    "sold": 450,
+    "unit": 18.15,
+    "exclusive": true
+  },
+  {
+    "store": "UT過嶺特區松義加盟店",
+    "name": "大清哈佛",
+    "area": "中壢區",
+    "size": 46.483,
+    "asking": 1395,
+    "sold": 1280,
+    "unit": 28.19,
+    "exclusive": true
+  },
+  {
+    "store": "UT過嶺特區松義加盟店",
+    "name": "站前新銳",
+    "area": "中壢區",
+    "size": 29.211,
+    "asking": 1550,
+    "sold": 1350,
+    "unit": 52.87,
+    "exclusive": true
+  },
+  {
+    "store": "UT過嶺特區松義加盟店",
+    "name": "竹風鳳凰",
+    "area": "八德區",
+    "size": 70.379,
+    "asking": 2098,
+    "sold": 1948,
+    "unit": 31.52,
+    "exclusive": false
+  },
+  {
+    "store": "UT過嶺特區松義加盟店",
+    "name": "森學園",
+    "area": "中壢區",
+    "size": 48.158,
+    "asking": 2088,
+    "sold": 1900,
+    "unit": 44.73,
+    "exclusive": false
+  },
+  {
+    "store": "UT內壢環中加盟店",
+    "name": "獅子林整新美寓",
+    "area": "平鎮區",
+    "size": 21.12,
+    "asking": 728,
+    "sold": 580,
+    "unit": 27.46,
+    "exclusive": false
+  },
+  {
+    "store": "UT內壢環中加盟店",
+    "name": "近武陵高中竹城明石1+1房車",
+    "area": "桃園區",
+    "size": 33.55,
+    "asking": 1138,
+    "sold": 1085,
+    "unit": 37.5,
+    "exclusive": false
+  },
+  {
+    "store": "UT中原大學山岳加盟店",
+    "name": "龍岡生活圈稀有庭院別墅(自有車庫)",
+    "area": "平鎮區",
+    "size": 58,
+    "asking": 1180,
+    "sold": 1070,
+    "unit": 18.32,
+    "exclusive": true
+  },
+  {
+    "store": "UT中原大學山岳加盟店",
+    "name": "宋屋國小轉角邊間大面寬店住",
+    "area": "平鎮區",
+    "size": 23,
+    "asking": 798,
+    "sold": 750,
+    "unit": 32.33,
+    "exclusive": false
+  },
+  {
+    "store": "UT中原大學山岳加盟店",
+    "name": "育達商圈大地坪雙車位透天別墅",
+    "area": "平鎮區",
+    "size": 50,
+    "asking": 2568,
+    "sold": 2258,
+    "unit": 45.62,
+    "exclusive": false
+  },
+  {
+    "store": "UT中原大學山岳加盟店",
+    "name": "育達商圈｜大地坪活巷透天",
+    "area": "平鎮區",
+    "size": 33,
+    "asking": 1580,
+    "sold": 1530,
+    "unit": 47.08,
+    "exclusive": false
+  },
+  {
+    "store": "UT平鎮環南加盟店",
+    "name": "平鎮火車站，文藝典雅裝潢，3改2房平車位",
+    "area": "平鎮區",
+    "size": 46.89,
+    "asking": 1888,
+    "sold": 1808.8,
+    "unit": 38.57,
+    "exclusive": false
+  },
+  {
+    "store": "TC中壢A23健行加盟店",
+    "name": "龍岡森林公園好便宜低總價活巷透天",
+    "area": "中壢區",
+    "size": 26.49,
+    "asking": 858,
+    "sold": 770,
+    "unit": 29.06,
+    "exclusive": true
+  },
+  {
+    "store": "TC中壢A23健行加盟店",
+    "name": "新竹內灣北角小坪數農牧用地",
+    "area": "新竹縣",
+    "size": 211.75,
+    "asking": 52,
+    "sold": 52,
+    "unit": 0.24,
+    "exclusive": true
+  }
+]
